@@ -1,6 +1,7 @@
 # vitest-matchers
 
-[GitHub] | [NPM]
+| :warning: This project is no longer maintained because the author switched from Vitest to Node.js Test :warning: |
+| ------------------------------------------------------------------------------------------------------------------------------- |
 
 Some additional [Vitest] matchers I usually use in my projects. Also registers the matchers from [jest-extended].
 
